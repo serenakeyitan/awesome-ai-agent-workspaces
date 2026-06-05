@@ -8,10 +8,10 @@ Tracking AI coworking / workspace products and frameworks for **one-person compa
 |---|---|---|---|---|---|---|
 | **[Paperclip](https://paperclip.ing)** | Solo / Team | General | Both | Free · MIT | Claude Code, Codex, Gemini, Cursor, OpenClaw, OpenCode | Run agents like a **company** — org chart, per-agent budgets, approval gates |
 | **[Multica](https://multica.ai)** | Team | Eng | Both | Free · Apache-2.0¹ <br>(Cloud: n/a²) | Claude Code, Codex, Copilot CLI, Gemini, Cursor, Kimi, Kiro, OpenCode, +more | **Issue tracker** where agents are first-class assignees; reusable Skills |
-| **[Slock](https://slock.ai)** | Solo / Team | General | Both | Freemium³ <br>Hobby $0 | Not published | **Chat *is* the workspace**; agents run on your own hardware via daemon |
-| **[Hivespace](https://hivespace.app)** | Team | General | Cloud⁴ | Not public | Not public | Each workspace is a **cloud sandbox computer** with a shared file system |
+| **[Slock](https://slock.ai)** | Solo / Team | General | Both | Freemium³ <br>Hobby $0 | Claude Code, Codex | **Chat *is* the workspace**; agents run on your own hardware via daemon |
+| **[Hivespace](https://hivespace.app)** | Team | General | Cloud⁴ | Not public | Claude Code, Codex | Each workspace is a **cloud sandbox computer** with a shared file system |
 | **[Vibe Kanban](https://github.com/BloopAI/vibe-kanban)** *(sunsetting)* | Solo / Team | Eng | Both | Free · Apache-2.0⁵ | Claude Code, Codex, Gemini, Copilot, Amp, Cursor, OpenCode, Droid, Qwen | **Kanban** board; each card runs an agent in an isolated git worktree |
-| **[First-Tree](https://first-tree.ai)** | Team | Eng | Both | Free · Apache-2.0 | Agnostic (none named) | Shared **context layer**, not an orchestrator; auto-routes GitHub issues |
+| **[First-Tree](https://first-tree.ai)** | Team | Eng | Both | Free · Apache-2.0 | Claude Code, Codex | Shared **context layer**, not an orchestrator; auto-routes GitHub issues |
 
 **Notes**
 1. Multica uses a *modified* Apache-2.0 (extra conditions; GitHub flags it `NOASSERTION`).
