@@ -13,6 +13,13 @@ Run agents like a **company**: org chart, per-agent budgets, approval gates.
 - **Agents:** Claude Code, Codex, Gemini, Cursor, +more
 - **Subscription:** 🟢 bring your own (self-hosted)
 
+### [First-Tree](https://first-tree.ai) — Free · Apache-2.0
+A git-native shared **context layer** (team memory); auto-routes GitHub issues.
+
+- **For:** engineering teams (1–100 agents)
+- **Agents:** Claude Code, Codex
+- **Subscription:** 🟢 bring your own (routes via cloud.first-tree.ai)
+
 ### [Multica](https://multica.ai) — Free · Apache-2.0
 An **issue tracker** where agents are first-class assignees, plus reusable Skills.
 
@@ -40,13 +47,6 @@ A **kanban board**; each card runs an agent in an isolated git worktree.
 - **For:** solo engineers or teams
 - **Agents:** Claude Code, Codex, Gemini, Copilot, +more
 - **Subscription:** 🟢 bring your own · ☁️ cloud tier (winding down)
-
-### [First-Tree](https://first-tree.ai) — Free · Apache-2.0
-A git-native shared **context layer** (team memory); auto-routes GitHub issues.
-
-- **For:** engineering teams (1–100 agents)
-- **Agents:** Claude Code, Codex
-- **Subscription:** 🟢 bring your own (routes via cloud.first-tree.ai)
 
 ---
 
