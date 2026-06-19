@@ -4,6 +4,8 @@ AI coworking / workspace products for **one-person companies** and **teams** —
 
 **Subscription** = how you pay for the agents: 🟢 bring your own (your Claude/Codex plan) · ☁️ vendor cloud (hosted, they bill compute).
 
+> use this [link](https://cloud.first-tree.ai/login?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agent-workspaces-app) to use [first-tree 🌳](https://first-tree.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agent-workspaces-site) for **free!!!** — the most efficient way to **loopmaxx your engineering work** :D
+
 ---
 
 ### [Paperclip](https://paperclip.ing) — Free · MIT
