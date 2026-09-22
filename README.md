@@ -53,3 +53,9 @@ A **kanban board**; each card runs an agent in an isolated git worktree.
 ---
 
 *Verified against primary sources, June 2026. Fast-moving space — verify before relying on pricing. Hivespace is login-gated (partially confirmed).*
+
+---
+
+## Resources
+
+- [`company-os/`](./company-os/) — Company OS bot org chart (spawnable by agents)
